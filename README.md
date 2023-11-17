@@ -1,2 +1,2 @@
 # purehtml
- this is a onlt-html website
+ this is a only-html website
